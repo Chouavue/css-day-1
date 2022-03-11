@@ -1,0 +1,68 @@
+
+
+.header:hover {
+    background-color: lightblue;
+}
+
+.dataone:hover {
+    background-color: lightpink;
+}
+
+.datatwo:hover {
+    background-color: lightgreen;
+}
+
+.datathree:hover {
+    background-color:  lightyellow;
+}
+
+.datafour:hover {
+    background-color: lightblue;
+}
+
+table{
+    background-color: grey;
+    border-style:solid;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%
+}
+
+div {
+    background-color:  lightgrey;
+    text-align: center;
+    box-shadow: 5px 5px;
+}
+
+.header{
+    background-color: lightgrey;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
+
+.dataone {
+    background-color: lightgrey;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.datatwo {
+    background-color: lightgrey;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.datathree {
+    background-color: lightgrey;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.datafour {
+    background-color: lightgrey;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
